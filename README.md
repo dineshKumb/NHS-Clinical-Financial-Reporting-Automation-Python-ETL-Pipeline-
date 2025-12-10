@@ -86,6 +86,6 @@ The solution replaces manual reporting with a fully automated, scalable Python p
 ## 🗂️ Folder Structure (Officer-Level Workspace)
 Officer_Name/
 │
-├── Bronze/ # Raw financial files
-├── Silver/ # Split & combined service datasets
-└── Gold/ # Merged clinical-financial outputs + final PDFs
+- Bronze/ # Raw financial files
+- Silver/ # Split & combined service datasets
+- Gold/ # Merged clinical-financial outputs + final PDFs
